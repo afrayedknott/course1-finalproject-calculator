@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_8cccce36557a4a7eb967d83d51798d9bca4b1d59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_673a0845c410166bc34b9f2b61822c3b7fa47e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_21dff22df687366f0baddcc10b26ae1e4ac648f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_1bf0a45c41b1b5b938cf393405cc458ed6610d41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="29f3701b29246e5202456bcff4299102d9e217f8">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c5aaa1b93c160d9cd29cc3866887afce5094387b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_c02f9d2f68db8c0ee8567670b84127b6295db614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_b8923c2b6e9317a46b1ce3a6f645ee1a589c8fce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_4314d5c387d123a62f2e97084dd070725c126438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="50ed021ed048e0a4d36b8d0c7866170760e3b481">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9e5bcca2f0e17d551486dfc2ff4b46898467cf7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_4bf506e85ef1bc6c61c21deaea02f4c59b607a99\classes.dex" />
+    </item>
+
+</items>

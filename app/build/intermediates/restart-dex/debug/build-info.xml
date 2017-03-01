@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="667640903239636"
+    token="843804115760627191"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="220" />
+    <task
+        name="instant-run-dex"
+        duration="491" />
+    <task
+        name="instant-run-transform"
+        duration="99" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="662604989692290"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="667413367303577"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="667640903239636"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\redna\Desktop\Projects\Android\finalproject_calculator\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

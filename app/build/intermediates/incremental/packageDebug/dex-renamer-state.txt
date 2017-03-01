@@ -1,0 +1,7 @@
+#Wed Feb 22 17:35:35 PST 2017
+base.0=C\:\\Users\\redna\\Desktop\\Projects\\Android\\finalproject_calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9e5bcca2f0e17d551486dfc2ff4b46898467cf7d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\redna\\Desktop\\Projects\\Android\\finalproject_calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5aaa1b93c160d9cd29cc3866887afce5094387b\\classes.dex
+base.1=C\:\\Users\\redna\\Desktop\\Projects\\Android\\finalproject_calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5aaa1b93c160d9cd29cc3866887afce5094387b
+file.0=C\:\\Users\\redna\\Desktop\\Projects\\Android\\finalproject_calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9e5bcca2f0e17d551486dfc2ff4b46898467cf7d\\classes.dex
